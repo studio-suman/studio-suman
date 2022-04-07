@@ -15,3 +15,9 @@ configure git
 
 git config --global user.name "your_name"
 git config --global user.email "your_email_address"
+
+Top 15 Linux Apps
+Rambox - Chatbox
+Stacer - System Cleaner
+Calibre - Ebook Reader
+TimeShift -  System Backup
