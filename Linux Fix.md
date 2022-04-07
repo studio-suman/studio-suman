@@ -21,3 +21,6 @@ Rambox - Chatbox
 Stacer - System Cleaner
 Calibre - Ebook Reader
 TimeShift -  System Backup
+Tweaks - System Tweaks
+KdenLive - Video Editor
+Nitroshare - File Sharing
