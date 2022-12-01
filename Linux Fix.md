@@ -56,3 +56,51 @@ sudo nano /etc/apt/sources.list
 11. rm -r
 12. rmdir
 13. htop
+14. ln -s
+15. whoami
+16. sudo
+17. adduser
+18. su
+19. passwd
+20. apt
+21. sudo apt update
+22. sudo apt upgrade
+23. man
+24. whatis
+25. where
+26. wget
+27. curl
+28. zip
+29. unzip
+30. tar -xvf
+31. less
+32. head
+33. tail
+34. cmp
+35. diff
+36. sort
+37. |
+38. find / -name ""
+39. chmod +x $filename
+40. chown $user $fileName
+41. if
+42. ifconfig
+43. awk
+44. grep
+45. resolvestatus
+46. ping
+47. traceroute
+48. netstat
+49. ss
+50. ufw
+51. uname -a
+52. neofetch
+53. cal
+54. free
+55. df -H
+56. ps -aux
+57. kill $pid
+58. pkill -f $fileName
+59. systemctl
+60. histoy
+61. systemd
